@@ -1,1 +1,1 @@
-# Pierwsze Spotkanie z RxJS podczas wartsztów STX Next 
+Pierwsze Spotkanie z RxJS podczas wartsztów STX Next 
